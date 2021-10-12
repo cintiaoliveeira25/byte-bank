@@ -31,9 +31,9 @@ namespace ByteBank.SistemaAgencia.Extensoes
 
             idades.AdicionarVarios(54, 5465, 456);
 
-            string guilherme = "Cintia";
+            string cintia = "Cintia";
 
-            guilherme.TesteGenerico<int>();
+            cintia.TesteGenerico<int>();
 
 
             //ListExtensoes<int>.AdicionarVarios(idades, 2, 3, 4);
